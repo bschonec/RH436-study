@@ -1,4 +1,4 @@
-
+NOTE:  I have not taken the EX436 exam.  I am bound by non-disclosure agreements and I will not answer any questions related to the exam.  These are notes I've taken to study for the exam.
 
 firewall-cmd --add-service high-availability --permanent
 yum -y install pcs # pacemaker 
